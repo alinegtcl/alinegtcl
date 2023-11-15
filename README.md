@@ -1,4 +1,4 @@
-# Hi, I'm Aline Cruz! :D
+# Hi, I'm Aline Tolentino! :D
 
 ### About me
 
