@@ -2,10 +2,10 @@
 
 ### About me
 
-- Bachelor's degree in Information Systems from Universidade Federal de Ouro Preto;
-- Mobile developer - kotlin - at F1RST Tecnologia;
-- Learning flutter;
-- Learning backend with Java and Spring.
+- Bachelor's degree in Information Systems from UFOP;
+- Postgraduate in Systems Development for Mobile Devices at IFSP;
+- Mobile software engineer;
+- Kotlin, Flutter, Java and Spring.
 
 ### Where to find me
 
